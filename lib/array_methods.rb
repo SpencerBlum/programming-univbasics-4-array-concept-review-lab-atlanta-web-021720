@@ -8,7 +8,6 @@ def find_element_index(array, value_to_find)
    else
     i += 1
   end
-  end
    end
 return nil
 end
